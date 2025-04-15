@@ -6,16 +6,6 @@ The goal is to simulate real-world tasks like structuring content, rendering MDX
 
 ---
 
-## 🧩 What’s Inside
-
-- 📝 MDX-based documentation pages (`intro.mdx`, `quickstart.mdx`)
-- 🔗 Basic sidebar navigation
-- ⚛️ Astro layout components
-- 🧱 Simple routing based on slug
-- 🧪 Room for enhancements like search, code samples, or feedback widgets
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Install Dependencies
